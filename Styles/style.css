@@ -147,10 +147,6 @@ hr {
         grid-template-columns: repeat(1,1fr);
     }
 
-    .courses{
-
-    }
-
     .player, .blog, .courses{
         flex-direction: column;
         justify-content: center;
@@ -164,7 +160,7 @@ hr {
         width: 100%;
     }
 
-    .players, {
+    .players {
         grid-template-columns: repeat(2,1fr);
     }
 
